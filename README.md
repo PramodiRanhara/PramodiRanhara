@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning **MongoDB for full-stack web apps, UI/UX principles and responsive web design**
 
 - 🔭 I’m currently working on **Full Stack Online Bookstore Website**
- #### 🔗 Figma Design For Bookstore Website
-  [View the design here](https://www.figma.com/design/Jkdnk3o5hf0C1pwC8fAceQ/Book-store-template--Community-?node-id=0-1&t=lpDqJypBMRZyl8oA-1)
+- #### 🔗 Figma Design For Bookstore Website
+   [View the design here](https://www.figma.com/design/Jkdnk3o5hf0C1pwC8fAceQ/Book-store-template--Community-?node-id=0-1&t=lpDqJypBMRZyl8oA-1)
 
 
 - 💬 Ask me about **Figma UI design and wireframing,React.js & Tailwind CSS, Visual Basic + MS Access projects**
